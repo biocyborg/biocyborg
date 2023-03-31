@@ -2,8 +2,8 @@
   <meta charset="utf-8">
   <%
     const baseTitle = config.title
-    const pageTitle = page.title || '小站首页'
-    const title = '一个小破站' + pageTitle
+    const pageTitle = page.title
+    const title = pageTitle
   %>
   <title><% if (title){ %><%= title %> | <% } %><%= config.title %></title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">

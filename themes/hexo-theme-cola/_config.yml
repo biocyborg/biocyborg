@@ -44,13 +44,13 @@ musics:
 
 # 个人介绍
 likes:
-  - 姓名：赵文龙
-  - 年龄：25
-  - 性别：♂
-  - 家乡：四川省雅安市某小镇
-  - 现居住地：四川省成都市武侯区
-  - 职业：Web前端开发
-  - 喜欢：打游戏，游泳，下象棋
+  - 姓名: 赵文龙
+  - 年龄: 25
+  - 性别: ♂
+  - 家乡:
+  - 现居住地:
+  - 职业: Web前端开发
+  - 喜欢:
 
 # 工具配置：封面，标题，介绍，链接
 tools:
@@ -67,8 +67,8 @@ tools:
 # 是否开启文章评论 Valine:https://valine.js.org/configuration.htm
 comments:
   enable: true
-  appId: "Pf8zCXGEH1qsprnWfikVVujL-gzGzoHsz"
-  appKey: "qOqoiUHhH1TGtLRUYURkLRQX"
+  appId: "c22GzA1H4WoUDju0SFuhtOxw-MdYXbMMI"
+  appKey: "i3xeTTrUUsjow4yhhsyb5VIw"
   placeholder: "请留下你宝贵的意见吧~"
   meta: ["nick"]
   recordIP: true
